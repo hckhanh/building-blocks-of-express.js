@@ -1,0 +1,34 @@
+{
+  "name": "building-blocks-of-express.js",
+  "version": "0.0.1",
+  "description": "Codeschool demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hckhanh/building-blocks-of-express.js.git"
+  },
+  "keywords": [
+    "demo",
+    "block",
+    "building",
+    "node.js",
+    "express.js",
+    "ajax"
+  ],
+  "author": "Khanh Hoang",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hckhanh/building-blocks-of-express.js/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.3",
+    "bootstrap": "~3.3.5",
+    "gulp": "~3.9.0",
+    "nodemon": "~1.4.1",
+    "body-parser": "~1.13.3",
+    "z-schema": "~3.12.4"
+  }
+}
