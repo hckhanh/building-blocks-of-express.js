@@ -27,7 +27,7 @@
     "express": "~4.13.3",
     "bootstrap": "~3.3.5",
     "gulp": "~3.9.0",
-    "nodemon": "~1.4.1",
+    "nodemon": "~1.14.11",
     "body-parser": "~1.13.3",
     "z-schema": "~3.12.4"
   }
